@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">RetroVolley</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="id">123</string>
+    <string name="close">Close</string>
+    <string name="refresh">Refresh</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="isWait">Silahkan Tunggu</string>
+    <string name="isSubmit">Sedang disubmit</string>
+    <string name="fullname">Nama Lengkap</string>
+    <string name="your_email">Email Anda</string>
+    <string name="your_pass">Password Anda</string>
+    <string name="submit">Submit</string>
+    <string name="add">Add</string>
+    <string name="addUser">Tambah User</string>
+    <string name="notNull">Tidak boleh kosong</string>
+    <string name="volley">Volley</string>
+    <string name="sendRetrofit">Send Using Retrofit</string>
+    <string name="sendvolley">Send Using Volley</string>
+
+</resources>
